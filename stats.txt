@@ -1,0 +1,33 @@
+﻿Stats
+
+Brute force method:
+
+userMsgList.size():
+
+교사모임 2:30
+
+userMsgList.size()/4:
+
+교사모임 - 12932 lines (17명) - 1:40
+형주 Hyeongjoo park (2명) - 1516 lines - 0:07
+정하영님 (57명) - 279 lines - 1:30
+한정호 (42명) - 1735 lines - 1:45
+김동건 (4명) - 1807 lines - 0:10
+
+Last 3000 lines:
+
+교사모임 (17) - 0:50
+형주 Hyeongjoo (2) - 0:12
+정하영님 (57) - 1:40
+한정호 (42) - 1:44
+한정호 (39) - 1:42 
+김동건 (4) - 0:12
+
+Last 3000 lines, Pre-remove inactive users:
+
+교사모임 (17) - 1383kb, 1.28 sec, 0:50
+형주 Hyeongjoo (2) - 123kb, 0.65 sec, 0:12
+정하영님 (57) - 46kb, 0.92 sec, 1:10
+한정호 (42) - 193kb, 1.62 sec, 1:44
+한정호 (39) - 1:42 
+김동건 (4) - 143kb, 0.70 sec, 0:12
